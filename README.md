@@ -1,2 +1,2 @@
 # Data_and_WebMining
-SALUTI DA LIGNANO
+Progetto di analisi su dati esterni con conseguente utilizzo di algoritmi noti di supervised machine learning.
